@@ -1,0 +1,13 @@
+observation_id,common_name,scientific_name,order,count
+1,Eastern bumble bee,Bombus impatiens,Hymenoptera,4
+2,Western honey bee,Apis mellifera,Hymenoptera,7
+3,Monarch,Danaus plexippus,Lepidoptera,3
+4,Eastern bumble bee,Bombus impatiens,Hymenoptera,6
+5,Seven-spotted lady beetle,Coccinella septempunctata,Coleoptera,2
+6,Common green darner,Anax junius,Odonata,1
+7,Brown-belted bumble bee,Bombus griseocollis,Hymenoptera,3
+8,Painted lady,Vanessa cardui,Lepidoptera,5
+9,Western honey bee,Apis mellifera,Hymenoptera,8
+10,Monarch,Danaus plexippus,Lepidoptera,2
+11,Eastern bumble bee,Bombus impatiens,Hymenoptera,5
+12,Red milkweed beetle,Tetraopes tetrophthalmus,Coleoptera,2
